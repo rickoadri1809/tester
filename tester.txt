@@ -1,4 +1,4 @@
-Ini adalah percobaan 
 Saya Ricko Adrianto
 Mahasiswa Politeknik Caltex
 Jurusan Teknik Informatika
+Ini adalah tester
