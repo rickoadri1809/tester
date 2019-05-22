@@ -1,4 +1,4 @@
 Rencana ingin tambah
- -Asal Sekolah
- -Kelas
+ -Asal Sekolah : SMAS Santo Yosef
+ -Kelas : 1 TI C
  -Nim
